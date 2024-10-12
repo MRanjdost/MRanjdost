@@ -1,19 +1,17 @@
 # 💫 About Me:
 
 developer passionate about financial markets and software development. My expertise includes:<br/>
-
-Python Programming: I use Python for data analysis, task automation, and developing various tools in the financial domain.<br/>
-Developing Trading Algorithms in MetaTrader 5 (MQL5): Enhancing trading strategies and performing professional calculations like maximum drawdown (Max Drawdown) for different asset types.<br/>
-Mobile App Development with Flutter<br/>
-Building and Optimizing GPT Models: Focusing on training and developing GPT models for intraday trading and financial market analysis.<br/>
+          Python Programming: I use Python for data analysis, task automation, and developing various tools in the financial domain.<br/>
+          Developing Trading Algorithms in MetaTrader 5 (MQL5): Enhancing trading strategies and performing professional calculations like maximum drawdown (Max Drawdown) for different asset types.<br/>
+          Mobile App Development with Flutter<br/>
+          Building and Optimizing GPT Models: Focusing on training and developing GPT models for intraday trading and financial market analysis.<br/>
 
 
 برنامه‌نویس علاقه‌مند به بازارهای مالی و توسعه نرم‌افزار. تخصص من در زمینه‌های زیر است:<br/>
-
-برنامه‌نویسی با پایتون: از پایتون برای تحلیل داده‌ها، خودکارسازی وظایف و توسعه ابزارهای مختلف در حوزه مالی استفاده می‌کنم.<br/>
-توسعه الگوریتم‌های معاملاتی در MetaTrader 5 (MQL5): بهبود استراتژی‌های معاملاتی و محاسبات حرفه‌ای مانند محاسبه حداکثر افت سرمایه (Max Drawdown) برای انواع دارایی‌ها.<br/>
-توسعه اپلیکیشن‌های موبایل با Flutter.<br/>
-ایجاد و بهینه‌سازی مدل‌های GPT: برنامه‌ریزی برای آموزش و ساخت مدل‌های GPT در حوزه معاملات روزانه و تحلیل بازارهای مالی.<br/>
+          برنامه‌نویسی با پایتون: از پایتون برای تحلیل داده‌ها، خودکارسازی وظایف و توسعه ابزارهای مختلف در حوزه مالی استفاده می‌کنم.<br/>
+          توسعه الگوریتم‌های معاملاتی در MetaTrader 5 (MQL5): بهبود استراتژی‌های معاملاتی و محاسبات حرفه‌ای مانند محاسبه حداکثر افت سرمایه (Max Drawdown) برای انواع دارایی‌ها.<br/>
+          توسعه اپلیکیشن‌های موبایل با Flutter.<br/>
+          ایجاد و بهینه‌سازی مدل‌های GPT: برنامه‌ریزی برای آموزش و ساخت مدل‌های GPT در حوزه معاملات روزانه و تحلیل بازارهای مالی.<br/>
 
 
 ## 🌐 Socials:
