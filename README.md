@@ -6,6 +6,8 @@ Python Programming: I use Python for data analysis, task automation, and develop
 Developing Trading Algorithms in MetaTrader 5 (MQL5): Enhancing trading strategies and performing professional calculations like maximum drawdown (Max Drawdown) for different asset types.
 Mobile App Development with Flutter: Currently working on apps that interface with V2Ray.
 Building and Optimizing GPT Models: Focusing on training and developing GPT models for intraday trading and financial market analysis.
+
+
 برنامه‌نویس علاقه‌مند به بازارهای مالی و توسعه نرم‌افزار. تخصص من در زمینه‌های زیر است:
 
 برنامه‌نویسی با پایتون: از پایتون برای تحلیل داده‌ها، خودکارسازی وظایف و توسعه ابزارهای مختلف در حوزه مالی استفاده می‌کنم.
