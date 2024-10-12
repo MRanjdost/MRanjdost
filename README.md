@@ -31,7 +31,7 @@ developer passionate about financial markets and software development. My expert
 [![](https://visitcount.itsvg.in/api?id=MRanjdost&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [(TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm)] 
+  TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
