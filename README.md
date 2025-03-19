@@ -39,9 +39,9 @@ Into coding or AI? Join me—subscribe and let’s dive in! 🚀<br/>
 
   ## 💰 You can help me by Donating
   Rials:<br/>
-        https://daramet.com/MR.Ranjdost<br/>
+        <br/>https://daramet.com/MR.Ranjdost<br/>
 Crypto:<br/>
-        TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm<br/>
+        <br/>TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm<br/>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
