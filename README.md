@@ -38,10 +38,11 @@ Into coding or AI? Join me—subscribe and let’s dive in! 🚀<br/>
 [![](https://visitcount.itsvg.in/api?id=MRanjdost&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  Rials:<br/>
-        <br/>https://daramet.com/MR.Ranjdost<br/>
-Crypto:<br/>
-        <br/>TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm<br/>
+  ###Rials:<br/>
+        https://daramet.com/MR.Ranjdost<br/>
+        <br/>
+###Crypto:<br/>
+        TRON : TMVhJoPRsBNumsYnwNDea85pUEcTtQkesm<br/>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
