@@ -1,17 +1,24 @@
 # 💫 About Me:
 
-developer passionate about financial markets and software development. My expertise includes:<br/>
-          Python Programming: I use Python for data analysis, task automation, and developing various tools in the financial domain.<br/>
-          Developing Trading Algorithms in MetaTrader 5 (MQL5): Enhancing trading strategies and performing professional calculations like maximum drawdown (Max Drawdown) for different asset types.<br/>
-          Mobile App Development with Flutter<br/>
-          Building and Optimizing GPT Models: Focusing on training and developing GPT models for intraday trading and financial market analysis.<br/>
+
+🎯 Welcome to the world of programming and AI! 🤖<br/>
+Hey! I’m a developer passionate about tech and artificial intelligence. Let’s explore the amazing realms of coding and AI innovation together. Here’s what I do:<br/>
+✅ Python Programming: Data analysis, automation, and building cool tools—Python’s my jam!<br/>
+✅ MetaTrader 5 (MQL5): I craft complex algorithms and tackle pro-level calculations.<br/>
+✅ Flutter: I create sleek, efficient mobile apps.<br/>
+✅ GPT Models: I’m training and optimizing GPT models for creative projects.<br/>
+Into coding or AI? Join me—subscribe and let’s dive in! 🚀<br/>
 
 
-برنامه‌نویس علاقه‌مند به بازارهای مالی و توسعه نرم‌افزار. تخصص من در زمینه‌های زیر است:<br/>
-          برنامه‌نویسی با پایتون: از پایتون برای تحلیل داده‌ها، خودکارسازی وظایف و توسعه ابزارهای مختلف در حوزه مالی استفاده می‌کنم.<br/>
-          توسعه الگوریتم‌های معاملاتی در MetaTrader 5 (MQL5): بهبود استراتژی‌های معاملاتی و محاسبات حرفه‌ای مانند محاسبه حداکثر افت سرمایه (Max Drawdown) برای انواع دارایی‌ها.<br/>
-          توسعه اپلیکیشن‌های موبایل با Flutter.<br/>
-          ایجاد و بهینه‌سازی مدل‌های GPT: برنامه‌ریزی برای آموزش و ساخت مدل‌های GPT در حوزه معاملات روزانه و تحلیل بازارهای مالی.<br/>
+🎯 خوش آمدید به دنیای برنامه‌نویسی و هوش مصنوعی! 🤖<br/>
+سلام! من یه برنامه‌نویس عاشق تکنولوژی و هوش مصنوعی هستم. اینجا با هم وارد دنیای شگفت‌انگیز کدنویسی و نوآوری‌های هوش مصنوعی می‌شیم. تخصص‌هام ایناست:<br/>
+✅ برنامه‌نویسی با پایتون: از تحلیل داده‌ها و خودکارسازی کارها تا ساخت ابزارهای کاربردی، پایتون دنیای منه!<br/>
+✅ MetaTrader 5 (MQL5): الگوریتم‌های پیچیده می‌سازم و محاسبات حرفه‌ای رو انجام می‌دم.<br/>
+✅ Flutter: اپلیکیشن‌های موبایل شیک و کارآمد طراحی می‌کنم.<br/>
+✅ مدل‌های GPT: رو آموزش و بهینه‌سازی مدل‌های GPT برای پروژه‌های خلاقانه کار می‌کنم.<br/>
+اگه به برنامه‌نویسی و هوش مصنوعی علاقه دارید، باهام همراه شید و عضو کانالم بشید! 🚀<br/>
+
+
 
 
 ## 🌐 Socials:
